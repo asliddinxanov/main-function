@@ -1,0 +1,4 @@
+﻿  Source.cpp
+c:\users\xanovspc\documents\main-function\main function 02\main function 02\source.cpp(16): warning C4474: 'printf': 書式文字列に渡された引数の数が多すぎます
+  c:\users\xanovspc\documents\main-function\main function 02\main function 02\source.cpp(16): note: プレースホルダーとそのパラメーターには 0 の可変個引数が必要ですが、1 が指定されています。
+  main function 02.vcxproj -> C:\Users\XanovsPC\Documents\main-function\main function 02\Debug\main function 02.exe
